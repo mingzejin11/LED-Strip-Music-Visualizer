@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2020-05-20T05:06:31Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.1"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "Arduino shield"
+        },
+        "Owner": "Mingze Jin <mz2jin@uwaterloo.ca>",
+        "Size": {
+            "X": 53.34,
+            "Y": 57.15
+        }
+    }
+}

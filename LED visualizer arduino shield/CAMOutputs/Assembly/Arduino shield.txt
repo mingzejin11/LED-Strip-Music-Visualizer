@@ -1,0 +1,5 @@
+Partlist exported from C:/Users/mingz/Documents/LED-Strip-Music-Visualizer/LED visualizer arduino shield/Arduino shield.sch at 2020-05-20 1:06 AM
+
+Qty Value                      Device                     Package       Parts                                                                                                                                        Description                 POPULARITY
+17                             1,6/0,9                    1,6/0,9       LCD_5V, LCD_A4, LCD_A5, LCD_GND, LED_STRIP, POT1A1, POT1GND, POT2A2, POT2GND, POT3A3, POT3GND, POT15V, POT25V, POT35V, SD_5V, SD_ENV, SD_GND THROUGH-HOLE PAD            7         
+1   ARDUINO_UNO_R3_SHIELDBASIC ARDUINO_UNO_R3_SHIELDBASIC UNO_R3_SHIELD B1                                                                                                                                           Arduino R3 Shield Footprint           
